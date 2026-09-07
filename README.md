@@ -45,7 +45,8 @@
 ### ノイズ現象論
 
 - `papers/noise-phenomenology/`
-
+- [ノイズ現象論](paper2.pdf)
+- 
 ### フラクタル・数学
 
 - `papers/fractal/`
@@ -57,28 +58,24 @@
 ### 哲学
 
 - `papers/philosophy/`
+- [フラクタルとオタク文化論](paper15.pdf)
+- [フラクタル消費論](paper13.pdf)
 
 ### 精神分析・自由連想
 
-- `papers/psychoanalysis/`
-
-
-- [フラクタル消費論](paper1.pdf)
-- [ノイズ現象論](paper2.pdf)
-- [一般精神分析と科学哲学的考察（体験基礎論）](paper3.pdf)
-- [神田橋條治の治療論　転移論編（縦書き）](paper4.pdf)
-- [群れの理論資料（一般精神分析草稿）](paper5.pdf)
-- [神田橋條治の治療論　転移論編](paper6.pdf)
-- [Paper 1 — ノイズ現象論](paper7.pdf)
-- [神田橋條治の治療論自由連想法編　資料](paper8.pdf)
-- [柳の樹に幽霊を見る訓練](paper9.pdf)
-- [Paper 1 — ノイズ現象論](paper10.pdf)
-- [Paper 2 — ノイズ現象論](paper11.pdf)
 - [神田橋條治の治療法　自由連想編](paper12.pdf)
-- [フラクタル消費論](paper13.pdf)
-- [神田橋條治の治療法転移論資料](paper14.pdf)
-- [フラクタルとオタク文化論](paper15.pdf)
-- [Paper 3 — ノイズ現象論](paper16.pdf)
+- [神田橋條治の治療論　転移論編（縦書き）](paper4.pdf)
+-- [神田橋條治の治療論　転移論編](paper6.pdf)
+- `papers/psychoanalysis/`
+## 資料
+- [神田橋條治の治療論自由連想法編　資料](paper8.pdf)
+- [群れの理論資料（一般精神分析草稿）](paper5.pdf)
+- [一般精神分析と科学哲学的考察（体験基礎論）](paper3.pdf)
+
+### 旧ノイズ現象論（工事中）
+
+- [柳の樹に幽霊を見る訓練](paper9.pdf)
+
 
 ---
 
