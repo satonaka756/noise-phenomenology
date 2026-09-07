@@ -22,6 +22,7 @@
 ### 1. ノイズ現象論
 ノイズ現象そのものの構造と、その生成・変形・回復について考察する。
 
+
 ### 2. フラクタル
 自己相似性、階層構造、局所と全体の関係について考察する。
 
@@ -60,6 +61,24 @@
 ### 精神分析・自由連想
 
 - `papers/psychoanalysis/`
+
+
+- [Paper 1 — ノイズ現象論](papers/paper1.pdf)
+- [Paper 2 — ノイズ現象論](papers/paper2.pdf)
+- [Paper 3 — ノイズ現象論](papers/paper3.pdf)
+- [Paper 1 — ノイズ現象論](papers/paper4.pdf)
+- [Paper 2 — ノイズ現象論](papers/paper5.pdf)
+- [Paper 3 — ノイズ現象論](papers/paper6.pdf)
+- [Paper 1 — ノイズ現象論](papers/paper7.pdf)
+- [Paper 2 — ノイズ現象論](papers/paper8.pdf)
+- [Paper 3 — ノイズ現象論](papers/paper9.pdf)
+- [Paper 1 — ノイズ現象論](papers/paper10.pdf)
+- [Paper 2 — ノイズ現象論](papers/paper11.pdf)
+- [Paper 3 — ノイズ現象論](papers/paper12.pdf)
+- [Paper 3 — ノイズ現象論](papers/paper13.pdf)
+- [Paper 1 — ノイズ現象論](papers/paper14.pdf)
+- [Paper 2 — ノイズ現象論](papers/paper15.pdf)
+- [Paper 3 — ノイズ現象論](papers/paper16.pdf)
 
 ---
 
