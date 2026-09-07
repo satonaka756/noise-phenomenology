@@ -63,22 +63,22 @@
 - `papers/psychoanalysis/`
 
 
-- [Paper 1 — ノイズ現象論](papers/paper1.pdf)
-- [Paper 2 — ノイズ現象論](papers/paper2.pdf)
-- [Paper 3 — ノイズ現象論](papers/paper3.pdf)
-- [Paper 1 — ノイズ現象論](papers/paper4.pdf)
-- [Paper 2 — ノイズ現象論](papers/paper5.pdf)
-- [Paper 3 — ノイズ現象論](papers/paper6.pdf)
-- [Paper 1 — ノイズ現象論](papers/paper7.pdf)
-- [Paper 2 — ノイズ現象論](papers/paper8.pdf)
-- [Paper 3 — ノイズ現象論](papers/paper9.pdf)
-- [Paper 1 — ノイズ現象論](papers/paper10.pdf)
-- [Paper 2 — ノイズ現象論](papers/paper11.pdf)
-- [Paper 3 — ノイズ現象論](papers/paper12.pdf)
-- [Paper 3 — ノイズ現象論](papers/paper13.pdf)
-- [Paper 1 — ノイズ現象論](papers/paper14.pdf)
-- [Paper 2 — ノイズ現象論](papers/paper15.pdf)
-- [Paper 3 — ノイズ現象論](papers/paper16.pdf)
+- [Paper 1 — ノイズ現象論](paper1.pdf)
+- [Paper 2 — ノイズ現象論](paper2.pdf)
+- [Paper 3 — ノイズ現象論](paper3.pdf)
+- [Paper 1 — ノイズ現象論](paper4.pdf)
+- [Paper 2 — ノイズ現象論](paper5.pdf)
+- [Paper 3 — ノイズ現象論](paper6.pdf)
+- [Paper 1 — ノイズ現象論](paper7.pdf)
+- [Paper 2 — ノイズ現象論](paper8.pdf)
+- [Paper 3 — ノイズ現象論](paper9.pdf)
+- [Paper 1 — ノイズ現象論](paper10.pdf)
+- [Paper 2 — ノイズ現象論](paper11.pdf)
+- [Paper 3 — ノイズ現象論](paper12.pdf)
+- [Paper 3 — ノイズ現象論](paper13.pdf)
+- [Paper 1 — ノイズ現象論](paper14.pdf)
+- [Paper 2 — ノイズ現象論](paper15.pdf)
+- [Paper 3 — ノイズ現象論](paper16.pdf)
 
 ---
 
