@@ -42,7 +42,11 @@
 
 ## Papers
 
-### ノイズ現象論
+### AI生成論
+
+- [逆プロンプト変換とオリジナリティの考察](AI.pdf)
+
+ ### ノイズ現象論
 
 - `papers/noise-phenomenology/`
 - [ノイズ現象論](paper2.pdf)
